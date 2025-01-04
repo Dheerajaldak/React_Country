@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "name": "India",
+    "capital": "New Delhi",
+    "population": 1380004385,
+    "interestingFact": "India is the world's largest democracy and the birthplace of Hinduism, Buddhism, Jainism, and Sikhism.",
+    "president": "Droupadi Murmu",
+    "primeMinister": "Narendra Modi",
+    "flag": "https://flagcdn.com/in.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/India"
+  },
+  {
+    "id": 2,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": 37742154,
+    "interestingFact": "Canada has the longest coastline in the world.",
+    "president": null,
+    "primeMinister": "Justin Trudeau",
+    "flag": "https://flagcdn.com/ca.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Canada"
+  },
+  {
+    "id": 3,
+    "name": "United Kingdom",
+    "capital": "London",
+    "population": 67886011,
+    "interestingFact": "The UK is made up of four countries: England, Scotland, Wales, and Northern Ireland.",
+    "president": null,
+    "primeMinister": "Rishi Sunak",
+    "flag": "https://flagcdn.com/gb.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/United_Kingdom"
+  },
+  {
+    "id": 4,
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": 83783942,
+    "interestingFact": "Germany is known for its automobile industry and is home to BMW, Audi, and Volkswagen.",
+    "president": "Frank-Walter Steinmeier",
+    "primeMinister": "Olaf Scholz",
+    "flag": "https://flagcdn.com/de.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Germany"
+  },
+  {
+    "id": 5,
+    "name": "France",
+    "capital": "Paris",
+    "population": 67081000,
+    "interestingFact": "France is the largest country in the European Union.",
+    "president": "Emmanuel Macron",
+    "primeMinister": "Élisabeth Borne",
+    "flag": "https://flagcdn.com/fr.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/France"
+  },
+  {
+    "id": 6,
+    "name": "Italy",
+    "capital": "Rome",
+    "population": 60265400,
+    "interestingFact": "Italy is famous for its art, fashion, and historical landmarks such as the Colosseum.",
+    "president": "Sergio Mattarella",
+    "primeMinister": "Giorgia Meloni",
+    "flag": "https://flagcdn.com/it.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Italy"
+  },
+  {
+    "id": 7,
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": 25499884,
+    "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world.",
+    "president": null,
+    "primeMinister": "Anthony Albanese",
+    "flag": "https://flagcdn.com/au.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Australia"
+  },
+  {
+    "id": 8,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": 211049527,
+    "interestingFact": "Brazil is the largest country in South America and is famous for its Amazon Rainforest.",
+    "president": "Lula da Silva",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/br.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Brazil"
+  },
+  {
+    "id": 9,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 126476461,
+    "interestingFact": "Japan is known for its technology and is the birthplace of many influential video game companies.",
+    "president": null,
+    "primeMinister": "Fumio Kishida",
+    "flag": "https://flagcdn.com/jp.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Japan"
+  },
+  {
+    "id": 10,
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331002651,
+    "interestingFact": "The U.S. is home to the world's largest economy.",
+    "president": "Joe Biden",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/us.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/United_States"
+  },
+  {
+    "id": 11,
+    "name": "Russia",
+    "capital": "Moscow",
+    "population": 145912025,
+    "interestingFact": "Russia is the largest country by land area in the world.",
+    "president": "Vladimir Putin",
+    "primeMinister": "Mikhail Mishustin",
+    "flag": "https://flagcdn.com/ru.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Russia"
+  },
+  {
+    "id": 12,
+    "name": "China",
+    "capital": "Beijing",
+    "population": 1393780000,
+    "interestingFact": "China is the most populous country in the world and has the world's second-largest economy.",
+    "president": "Xi Jinping",
+    "primeMinister": "Li Keqiang",
+    "flag": "https://flagcdn.com/cn.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/China"
+  },
+  {
+    "id": 13,
+    "name": "South Africa",
+    "capital": "Pretoria, Bloemfontein, and Cape Town",
+    "population": 59308690,
+    "interestingFact": "South Africa is known for its diverse cultures, languages, and history, including the fight against apartheid.",
+    "president": "Cyril Ramaphosa",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/za.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/South_Africa"
+  },
+  {
+    "id": 14,
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "population": 128933000,
+    "interestingFact": "Mexico is known for its ancient civilizations, including the Maya and Aztec.",
+    "president": "Andrés Manuel López Obrador",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/mx.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Mexico"
+  },
+  {
+    "id": 15,
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": 91250000,
+    "interestingFact": "Egypt is home to one of the oldest civilizations in the world, including the famous pyramids of Giza.",
+    "president": "Abdel Fattah el-Sisi",
+    "primeMinister": "Mostafa Madbouly",
+    "flag": "https://flagcdn.com/eg.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Egypt"
+  },
+  {
+    "id": 16,
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45195777,
+    "interestingFact": "Argentina is the birthplace of the tango dance and music style.",
+    "president": "Alberto Fernández",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/ar.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Argentina"
+  },
+  {
+    "id": 17,
+    "name": "Spain",
+    "capital": "Madrid",
+    "population": 46719142,
+    "interestingFact": "Spain is known for its rich cultural heritage, including art, architecture, and flamenco dance.",
+    "president": "Pedro Sánchez",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/es.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Spain"
+  },
+  {
+    "id": 18,
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "population": 10099265,
+    "interestingFact": "Sweden is known for its innovation, design, and high quality of life.",
+    "president": null,
+    "primeMinister": "Ulf Kristersson",
+    "flag": "https://flagcdn.com/se.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Sweden"
+  },
+  {
+    "id": 19,
+    "name": "South Korea",
+    "capital": "Seoul",
+    "population": 51329899,
+    "interestingFact": "South Korea is known for its advanced technology, pop culture (K-pop), and historical sites.",
+    "president": "Yoon Suk-yeol",
+    "primeMinister": "Han Duck-soo",
+    "flag": "https://flagcdn.com/kr.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/South_Korea"
+  },
+  {
+    "id": 20,
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "population": 206139589,
+    "interestingFact": "Nigeria is the most populous country in Africa and has one of the largest economies on the continent.",
+    "president": "Muhammadu Buhari",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/ng.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Nigeria"
+  },
+  {
+    "id": 21,
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "population": 273523615,
+    "interestingFact": "Indonesia is the largest archipelago in the world with over 17,000 islands.",
+    "president": "Joko Widodo",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/id.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Indonesia"
+  }
+]

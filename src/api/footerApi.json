@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Visys-Hyderabad"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "123123123"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "abc@gmail.com"
+  }
+]
